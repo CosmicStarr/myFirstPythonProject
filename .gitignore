@@ -1,4 +1,13 @@
-mongo
-pyCosmicSite
 pyvenv.cfg
+Include
+_pycache
+Lib
+Scripts
 Static
+models.py
+views.py
+server.cpython-310.pyc
+_int_.py
+auth.py
+models.cpython-310.pyc
+

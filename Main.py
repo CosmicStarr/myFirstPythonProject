@@ -234,7 +234,6 @@ if yes == 1 or nuUser != None:
                         subMenu()
                         options1 = int(input('select an option : '))
                     elif options1 == 2:
-                        print('If you wish to delete your account')  
                         zeroUser = deleteUser()
                         options1 = 0
                         options = 0
