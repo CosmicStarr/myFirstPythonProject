@@ -2,7 +2,7 @@ MYFirstPYAPP
 
 Description =>
 
-A Teriminal line e-commerce app were users can register, login, and buy available products
+A Terminal line e-commerce app were users can register, login, and buy available products
 
 Technologies Used=>
 
@@ -28,4 +28,4 @@ Getting Started!=>
 
 Usage =>
 
-Once you download VScode, download the extension "Metals" in and then open the app using VScode
+Once you download VScode, download the extension "Metals" in and then unzip the project file and open the app using VScode
