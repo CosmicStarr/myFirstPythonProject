@@ -25,8 +25,6 @@ Features to be implemented:
 
 ## Getting Started =>
 
-[Screenshot (52)](https://user-images.githubusercontent.com/68157879/173105195-722fa9ca-9b98-4349-bb10-02a1125aae7f.png)
-
 [myFirstPythonProject.zip](https://github.com/CosmicStarr/myFirstPythonProject/files/8880333/myFirstPythonProject.zip)
 
 ## Usage =>
