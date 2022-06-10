@@ -1,31 +1,34 @@
-MYFirstPYAPP
-
-Description =>
-
+## CosmicCars E-commerece App
+## Description
 A Terminal line e-commerce app were users can register, login, and buy available products
 
-Technologies Used=>
+## Technologies Used
+- Python - version 3.10.4
+- MongoDB Shell - version 5.0.7
+- PyMongo - version 4.1.1
+- Visual Studio Code - version 1.66.2
 
-Python
+## Features
+Currently active features:
 
-VS Code
+-User Registration
 
-MongoDb
+-User Login 
 
-Features =>
+-Users can also delete their profile
 
-Register
+Features to be implemented:
 
-Login 
+-Add Stripe for a real user buying experience
 
-Delete Profile
+-Separation of concerns
 
-Getting Started!=>
+## Getting Started =>
 
 [Screenshot (52)](https://user-images.githubusercontent.com/68157879/173105195-722fa9ca-9b98-4349-bb10-02a1125aae7f.png)
 
 [myFirstPythonProject.zip](https://github.com/CosmicStarr/myFirstPythonProject/files/8880333/myFirstPythonProject.zip)
 
-Usage =>
+## Usage =>
 
 Once you download VScode, download the extension "Metals" in and then unzip the project file and open the app using VScode
